@@ -47,7 +47,11 @@ RF05: O sistema deve permitir que o usuário cadastre documentos com validade.
 
 ### Protótipo de telas
 
+### Cadastro de colaboradores
+
 ![Cadastro de colaborador](src/assets/easycheck-tela-cadastro-colaborador.jpeg)
+
+### Login
 
 ![Login](src/assets/easycheck-tela-login.jpeg)
 
