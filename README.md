@@ -30,22 +30,27 @@ Experimente o Easy Check e veja a diferença que ele pode fazer no seu dia a dia
 
 ### Requisitos Funcionais
 
-André Arantes
+### André Arantes
+
 RF01: O sistema deve permitir que a empresa se cadastre na plataforma.
 
-Leandro Lemes
+### Leandro Lemes
+
 RF02: O sistema deve permitir que o usuário cadastre cargos e vagas.
 
-Ana Maria
+### Ana Maria
+
 RF03: O sistema deve permitir que o usuário cadastre dados pessoais do colaborador.
 
-Leo Jaime
+### Leo Jaime
+
 RF04: O sistema deve permitir que o usuário cadastre dados profissionais do colaborador.
 
-André Guimarães
+### André Guimarães
+
 RF05: O sistema deve permitir que o usuário cadastre documentos com validade.
 
-### Protótipo de telas
+## Protótipo de telas
 
 ### Cadastro de colaboradores
 
@@ -54,4 +59,36 @@ RF05: O sistema deve permitir que o usuário cadastre documentos com validade.
 ### Login
 
 ![Login](src/assets/easycheck-tela-login.jpeg)
+
+## Rodando localmente
+
+Clone o projeto:
+
+```bash
+  git clone https://github.com/easycheck-team/easycheck-frontend.git
+```
+
+Entre no diretório do projeto:
+
+```bash
+  cd easycheck-frontend
+```
+
+Instale as dependências:
+
+```bash
+  npm install
+
+  ou 
+
+  npm i
+```
+
+Inicie o servidor localmente:
+
+```bash
+  npm run dev
+```
+
+
 
