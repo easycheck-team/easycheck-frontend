@@ -69,7 +69,8 @@ RF05: O sistema deve permitir que o usuário gerencie documentos, alertas e logs
 
 ### Cadastro de EPIs
 
-![Cadastro de EPIs](.jpeg)
+![Cadastro de EPIs Tela1](src/assets/easycheck-tela-epi1.jpeg)
+![Cadastro de EPIs Tela2](src/assets/easycheck-tela-epi2.jpeg)
 
 ### Gerenciamento de Documentos
 
