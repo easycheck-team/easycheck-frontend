@@ -73,7 +73,7 @@ RF05: O sistema deve permitir que o usuário gerencie documentos, alertas e logs
 
 ### Gerenciamento de Documentos
 
-![Gerenciamento de Documentos](.jpeg)
+![Gerenciamento de Documentos](src/assets/gestao_de_documentos_e_epis.png)
 
 ## Rodando localmente
 
