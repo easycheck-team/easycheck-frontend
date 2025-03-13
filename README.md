@@ -49,15 +49,11 @@ RF05: O sistema deve permitir que o usuário gerencie documentos, alertas e logs
 
 ### Cadastro de Empresa
 
-![Cadastro de Empresa](.jpeg)
-
-### Login Painel Administrativo
-
-![Login Painel Adminstrativo](.jpeg)
+![Cadastro de Empresa](src/assets/easy-check-cadastro-empresa.png)
 
 ### Painel Administrativo
 
-![Painel Administrativo](.jpeg)
+![Painel Administrativo](src/assets/easycheck-painel-admin.png)
 
 ### Login
 
