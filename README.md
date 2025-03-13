@@ -31,34 +31,49 @@ Experimente o Easy Check e veja a diferença que ele pode fazer no seu dia a dia
 ### Requisitos Funcionais
 
 ### André Arantes
-
 RF01: O sistema deve permitir que a empresa se cadastre na plataforma.
 
 ### Leandro Lemes
-
-RF02: O sistema deve permitir que o usuário cadastre cargos e vagas.
+RF02: O sistema deve permitir que o usuário cadastre cargos.
 
 ### Ana Maria
-
-RF03: O sistema deve permitir que o usuário cadastre dados pessoais do colaborador.
+RF03: O sistema deve permitir que o usuário cadastre EPIs.
 
 ### Leo Jaime
-
-RF04: O sistema deve permitir que o usuário cadastre dados profissionais do colaborador.
+RF04: O sistema deve permitir que o usuário cadastre dados pessoais e profissionais do colaborador.
 
 ### André Guimarães
-
-RF05: O sistema deve permitir que o usuário cadastre documentos com validade.
+RF05: O sistema deve permitir que o usuário gerencie documentos, alertas e logs.
 
 ## Protótipo de telas
 
-### Cadastro de colaboradores
+### Cadastro de Empresa
 
-![Cadastro de colaborador](src/assets/easycheck-tela-cadastro-colaborador.jpeg)
+![Cadastro de Empresa](.jpeg)
+
+### Login Painel Administrativo
+
+![Login Painel Adminstrativo](.jpeg)
+
+### Painel Administrativo
+
+![Painel Administrativo](.jpeg)
 
 ### Login
 
 ![Login](src/assets/easycheck-tela-login.jpeg)
+
+### Cadastro de colaboradores
+
+![Cadastro de Colaborador](src/assets/easycheck-tela-cadastro-colaborador.jpeg)
+
+### Cadastro de EPIs
+
+![Cadastro de EPIs](.jpeg)
+
+### Gerenciamento de Documentos
+
+![Gerenciamento de Documentos](.jpeg)
 
 ## Rodando localmente
 
