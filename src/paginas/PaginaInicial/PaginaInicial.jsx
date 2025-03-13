@@ -2,13 +2,8 @@ import React from 'react'
 
 function PaginaInicial() {
   return (
-
-   
-    <div> 
-       <title>Easy Check</title>
-    </div>
-
+    <div>PaginaInicial</div>
   )
-};
+}
 
-export default PaginaInicial;
+export default PaginaInicial

@@ -57,7 +57,7 @@ RF05: O sistema deve permitir que o usuário gerencie documentos, alertas e logs
 
 ### Login
 
-![Login](src/assets/easycheck-tela-login.jpeg)
+![Login](src/assets/tela-de-login.png)
 
 ### Cadastro de colaboradores
 
