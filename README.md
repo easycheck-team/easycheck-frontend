@@ -1,19 +1,22 @@
-
 # EASY CHECK
 
 ### Repositórios
 
 ## [Front-end](https://github.com/easycheck-team/easycheck-frontend.git)
+
 ## [Back-end](https://github.com/easycheck-team/easycheck-backend.git)
 
 ### Integrantes
 
 ### [Ana Bezerra](https://github.com/anavbezerra)
-### [André Arantes](https://github.com/arantesandre)
-### [André Guimarães](https://github.com/GuimaFox)
-### [Leandro Lemes](https://github.com/LeandrojLemes)
-### [Léo Jaime](https://github.com/LeoJaime-92)
 
+### [André Arantes](https://github.com/arantesandre)
+
+### [André Guimarães](https://github.com/GuimaFox)
+
+### [Leandro Lemes](https://github.com/LeandrojLemes)
+
+### [Léo Jaime](https://github.com/LeoJaime-92)
 
 ## Descrição
 
@@ -27,22 +30,26 @@ Isso significa uma economia significativa de tempo e uma garantia de que apenas 
 
 Experimente o Easy Check e veja a diferença que ele pode fazer no seu dia a dia. Ganhando tempo e garantindo a segurança da sua equipe, você estará investindo no sucesso do seu projeto.
 
-
 ### Requisitos Funcionais
 
 ### André Arantes
+
 RF01: O sistema deve permitir que a empresa se cadastre na plataforma.
 
 ### Leandro Lemes
+
 RF02: O sistema deve permitir que o usuário cadastre cargos.
 
 ### Ana Maria
+
 RF03: O sistema deve permitir que o usuário cadastre EPIs.
 
 ### Leo Jaime
+
 RF04: O sistema deve permitir que o usuário cadastre dados pessoais e profissionais do colaborador.
 
 ### André Guimarães
+
 RF05: O sistema deve permitir que o usuário gerencie documentos, alertas e logs.
 
 ## Protótipo de telas
@@ -61,7 +68,7 @@ RF05: O sistema deve permitir que o usuário gerencie documentos, alertas e logs
 
 ### Cadastro de colaboradores
 
-![Cadastro de Colaborador](src/assets/easycheck-tela-cadastro-colaborador.jpeg)
+![Cadastro de Colaborador](src/assets/cadastro-colaboradores.png)
 
 ### Cadastro de EPIs
 
@@ -91,7 +98,7 @@ Instale as dependências:
 ```bash
   npm install
 
-  ou 
+  ou
 
   npm i
 ```
@@ -101,6 +108,3 @@ Inicie o servidor localmente:
 ```bash
   npm run dev
 ```
-
-
-
